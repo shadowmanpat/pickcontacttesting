@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/sm/Documents/Dropbox/toImplement/pickcontacttesting/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/sm/Documents/Dropbox/toImplement/pickcontacttesting/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d4777b27c62e52a34944878de9978281b12f8dca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sm/.android/build-cache/00b30bf3e5450924983de2e834e6d363bfef0814/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="932078b2f30750bc5377ca4df58f3426c8cc875b">
+        <dex dex="/home/sm/Documents/Android Testing/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b5479c4f404c1381caa972b4d210d9d471e91968/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sm/Documents/Android Testing/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8982439d8fd7d168ba4a2fb794ba18e27c9689e9">
+        <dex dex="/home/sm/Documents/Android Testing/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_47946158ce51480c5cbf931f3ebc5d3780fda327/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sm/Documents/Dropbox/toImplement/pickcontacttesting/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="55cbb920693005593dd97efe41cb407c800d8453">
+        <dex dex="/home/sm/Documents/Dropbox/toImplement/pickcontacttesting/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2337165602daaad653864b9006f237f129c074ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sm/Documents/Android Testing/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/sm/Documents/Android Testing/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a3ad7059d78b019b81f0e9372df78681fab37688/classes.dex" />
+    </item>
+
+</items>
